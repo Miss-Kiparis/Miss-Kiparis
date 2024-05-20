@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a recently graduated front-end developer with a strong foundation in HTML, CSS, and JavaScript. I'm excited to contribute my skills and expand my knowledge in a professional setting. I have a creative and analytical mindset, allowing me to find efficient solutions quickly. My experience has also taught me effective teamwork, adherence to processes, and conflict resolution. My goal is to leverage my technical expertise and creativity to create captivating websites that leave a lasting impression on users.
+Hello! I'm a QA engineer with a passion for Front-end and a strong foundation in HTML, CSS, and JavaScript. I'm excited to contribute my skills and expand my knowledge in a professional setting. I have a creative and analytical mindset, allowing me to find efficient solutions quickly. My experience has also taught me effective teamwork, adherence to processes, and conflict resolution. My goal is to leverage my technical expertise and creativity to create captivating websites that leave a lasting impression on users.
 
 
 ## 🌐 Socials:
